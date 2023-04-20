@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(88, 179, 149);
+    font-family: 'Poppins', sans-serif;
+}
+.header_div{
+    background-color: whitesmoke;
+    color: crimson;
+}
+.header_div p{
+    color: goldenrod;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+.copy_right_futer{
+    position:fixed;
+    color: rgb(131, 118, 212);
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+    bottom: 0;
+}
